@@ -236,12 +236,6 @@ The system is built using a modular architecture, with the following key compone
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 
 For questions or feedback, please contact:
@@ -257,8 +251,3 @@ For questions or feedback, please contact:
 - **Neo4j** for the graph database technology.
 - **Google** for the Gemini LLM integration.
 - **FAISS** for efficient vector search capabilities.
-
----
-
-This README provides a comprehensive overview of the project, its features, architecture, and workflow. It is designed to help users understand and get started with the Egyptian Smart Legal Advisor system.
-```
