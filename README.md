@@ -185,6 +185,13 @@ The system is built using a modular architecture, with the following key compone
    - Access the app in your browser at `http://localhost:8501`.
 
 ---
+### Streamlit App Video Demo
+
+Watch the video below to see the **Egyptian Smart Legal Advisor** in action!
+
+[Download and Watch the Demo Video](demo.mp4)
+
+---
 
 ## Files and Components
 
