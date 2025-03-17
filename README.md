@@ -195,9 +195,9 @@ The system is built using a modular architecture, with the following key compone
   - Provides a user-friendly interface for interacting with the system.
 
 - **Legal Documents**:
-  - `الدستور المصري المعدل 2019.pdf`: The Egyptian Constitution.
-  - `المدني.pdf`: The Egyptian Civil Code.
-  - `قانون_الاجراءات_الجنائية.pdf`: The Egyptian Criminal Procedures Code.
+- The Egyptian Constitution (الدستور المصري المعدل 2019.pdf).
+- The Egyptian Civil Code (المدني.pdf).
+- The Egyptian Criminal Procedures Code (قانون_الاجراءات_الجنائية.pdf)
 
 ---
 
