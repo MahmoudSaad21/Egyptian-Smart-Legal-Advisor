@@ -1,0 +1,39 @@
+# Core Libraries
+python>=3.8
+
+# NLP and Machine Learning
+transformers>=4.30.0
+torch>=2.0.0
+sentence-transformers>=2.2.2
+tashaphyne>=0.4.0
+langchain>=0.0.200
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+langchain-google-genai>=0.0.1
+langchain-groq>=0.1.0
+
+# PDF Processing
+pdfplumber>=0.9.0
+
+# Arabic Text Handling
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+
+# Vector Search
+faiss-cpu>=1.7.4
+
+# Graph Database
+neo4j>=5.12.0
+
+# Streamlit (for the app)
+streamlit>=1.26.0
+
+# Utilities
+numpy>=1.23.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+tqdm>=4.65.0
+
+# Environment and API Keys
+python-dotenv>=1.0.0
+google-generativeai>=0.3.0
