@@ -1,4 +1,3 @@
-```markdown
 # Egyptian Smart Legal Advisor
 
 The **Egyptian Smart Legal Advisor** is an AI-powered system designed to assist users in navigating Egyptian legal documents, providing semantic search capabilities, and generating legal advice based on Egyptian law sources. This project combines advanced Natural Language Processing (NLP), machine learning, and graph database technologies to deliver accurate and context-aware legal insights tailored for Arabic legal text.
