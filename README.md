@@ -153,7 +153,7 @@ The system is built using a modular architecture, with the following key compone
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/egyptian-smart-legal-advisor.git
+   git clone https://github.com/MahmoudSaad21/Egyptian-Smart-Legal-Advisor.git
    cd egyptian-smart-legal-advisor
    ```
 
@@ -246,9 +246,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please contact:
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [your-github](https://github.com/your-github)
+- **Name**: Mahmoud Saad Mahmoud
+- **Email**: mahmoud.saad.mahmoud.11@gmail.com 
 
 ---
 
