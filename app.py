@@ -452,7 +452,7 @@ def hybrid_retrieval(query, faiss_db, graph_db, top_k=10):
 def build_legal_advisor_chain(faiss_db, graph_db):
     """Builds an enhanced legal advisor chain with context handling"""
     # Set Google API key
-    os.environ["GOOGLE_API_KEY"] = "AIzaSyAmzcdK1AXIndg6LTR0QXhV4mNy4hMbkqY"  # Replace with your actual API key
+    os.environ["GOOGLE_API_KEY"] = "your_api_key"  # Replace with your actual API key
 
     # Create LLM
     llm = ChatGoogleGenerativeAI(
@@ -529,7 +529,7 @@ def build_legal_advisor_chain(faiss_db, graph_db):
 def build_general_chain():
     """Builds a chain for general conversation"""
     # Set Google API key
-    os.environ["GOOGLE_API_KEY"] = "Your API key"  # Replace with your actual API key
+    os.environ["GOOGLE_API_KEY"] = "your_api_key"  # Replace with your actual API key
 
     # Create LLM
     llm = ChatGoogleGenerativeAI(
