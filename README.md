@@ -208,14 +208,6 @@ https://github.com/user-attachments/assets/f5f55acc-62bf-408b-a6c4-b20fa42e4f5b
 - The Egyptian Civil Code (المدني.pdf).
 - The Egyptian Criminal Procedures Code (قانون_الاجراءات_الجنائية.pdf)
 
-
-https://github.com/user-attachments/assets/246fae9d-ef7c-444b-818f-aa3bd449052b
-
-
-
-https://github.com/user-attachments/assets/016ca5a1-221c-4b46-b188-c1bc650051aa
-
-
 ---
 
 ## Example Use Cases
